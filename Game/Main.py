@@ -9,6 +9,7 @@ import shutil
 import os
 import json
 import time
+import sqllite3
 
 class LiveInfos(Tk):
     def __init__(self, parent):
